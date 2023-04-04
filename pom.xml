@@ -6,7 +6,7 @@
 
     <groupId>cloud.topcode.open</groupId>
     <artifactId>topcode-base-pay</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name> ${project.artifactId} </name>
